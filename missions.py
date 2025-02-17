@@ -82,7 +82,7 @@ def contar_letras(nome):
     return f"O nome {nome} tem {len(nome)} letras"
 
 
-# Testes
+# Resumo de testes
 if __name__ == "__main__":
     print(verificar_aprovacao(8))
     print(verificar_votacao(16))
